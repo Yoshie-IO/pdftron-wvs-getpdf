@@ -30,8 +30,8 @@ Before you begin, make sure your development environment includes
 ### Install
 
 ```
-git clone https://github.com/PDFTron/webviewer-js-sample.git
-cd webviewer-js-sample
+git clone https://github.com/Yoshie-IO/pdftron-wvs-getpdf
+cd pdftron-wvs-getpdf
 npm install
 ```
 
